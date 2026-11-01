@@ -1,0 +1,18 @@
+
+# Maven build output
+target/
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Maven build output
+target/
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
