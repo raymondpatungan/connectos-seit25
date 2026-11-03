@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>25</java.version>
         <selenium.version>4.51.0</selenium.version>
-        <io.appium.version>10.1.1</io.appium.version>
+        <io.appium.version>11.0.0</io.appium.version>
         <junit.version>6.1.3</junit.version>
         <cucumber.picocontainer.version>8.0.4</cucumber.picocontainer.version>
         <cucumber.version>8.0.4</cucumber.version>
